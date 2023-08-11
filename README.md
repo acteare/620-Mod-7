@@ -1,3 +1,6 @@
+Summarize what your project does: This project is an article summarizer. It takes any article from a URL and provides the user with a summarized version of that article. 
+Summarize the skills your project demonstrates: This project showcases many skills. It demonstrates the ability to take information off the web and save it in a local file. It also demonstrates how to use python definitions and other basic python coding and imports to complete analysis and create graphs.
+
 # Final Project: Article Summarizer
 
 Complete the tasks in the Python Notebook in this repository.
